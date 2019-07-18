@@ -5,7 +5,7 @@
         class="largelogo"
         src="~/assets/Bolk Logo.svg">
       <br/>
-      <h1 v-bind:class="{ 'mobileheadertext': $mq === 'mobile' }">BOLK TO BE ALIVE</h1>
+      <h1 v-bind:class="{ 'mobileheadertext': $mq === 'mobile' }">SO EXCITED</h1>
       <div class="triangles"></div>
     </div>
   </div>
@@ -17,7 +17,7 @@
     background-size: cover;
     width: 100%;
     height: 100vh;
-    border: 10px solid #8700a0;
+    border: 10px solid #1dab00;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -29,7 +29,7 @@
     width: 100%;
     position: absolute;
     top: calc(100vh - 60px);
-    background-image: url('~/assets/triangle-purple.svg');
+    background-image: url('~/assets/triangle-green.svg');
     background-size: contain;
   }
 
@@ -46,14 +46,14 @@
 
   #imageheader h1{
     font-size: 8rem !important;
-    color: #87eebf !important;
-    text-shadow: -4px 0 #8700a0,
-                -4px -4px #8700a0,
-                4px 4px #8700a0,
-                -4px 4px #8700a0,
-                4px -4px #8700a0,
-                0 4px #8700a0,
-                4px 0 #8700a0,
-                0 -4px #8700a0;
+    color: #F7EA2B !important;
+    text-shadow: -4px 0 #1dab00,
+                -4px -4px #1dab00,
+                4px 4px #1dab00,
+                -4px 4px #1dab00,
+                4px -4px #1dab00,
+                0 4px #1dab00,
+                4px 0 #1dab00,
+                0 -4px #1dab00;
   }
 </style>

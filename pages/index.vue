@@ -58,14 +58,14 @@ html{
 }
 
 @font-face {
-  font-family: 'Britanic bold';
-  src: url('/fonts/BRITANIC.TTF') format('truetype')
+  font-family: 'Komikax';
+  src: url('/fonts/KOMIKAX_.TTF') format('truetype')
 }
 
 h1, h2{
   text-align: center;
   color: white !important;
-  font-family: 'Britanic bold', cursive;
+  font-family: 'Komikax', cursive;
   font-size: 3rem !important;
 }
 

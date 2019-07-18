@@ -10,7 +10,7 @@
         :loop="true"
         :navigationEnabled="true"
         :navigationClickTargetSize="5"
-        :paginationActiveColor="'#8700a0'"
+        :paginationActiveColor="'#1dab00'"
         :navigationPrevLabel="' '"
         :navigationNextLabel="' '">
         <slide class="slide" v-for="(i, index) of quotes" :key="index">
@@ -70,7 +70,7 @@ export default{
 
 #quotes{
   padding: 100px 0px;
-  background-color: #87eebf;
+  background-color: #F7EA2B;
   color: white;
   position: relative;
   background-image: url('~/assets/fotos/societeit.jpg');
@@ -79,13 +79,13 @@ export default{
 }
 
 #quotes h2{
-  color: #8700a0 !important;
+  color: #1dab00 !important;
 }
 
 #quotes .VueCarousel-navigation button{
 	margin-left: 20px;
 	margin-right: 20px;
-	border: solid #8700a0;
+	border: solid #1dab00;
 	border-width: 0 2px 2px 0 !important;
 	width: 30px;
 	height: 30px;
@@ -108,7 +108,7 @@ export default{
 .slide-container{
   font-weight: 500;
   border-radius: 10px;
-  background-color: #8700a0;
+  background-color: #1dab00;
   padding: 20px;
   margin: 0 10px;
   height: 100%;
@@ -122,7 +122,7 @@ export default{
   margin-right: auto;
   display: block;
   margin-bottom: 10px;
-  border: 2px solid #87eebf;
+  border: 2px solid #F7EA2B;
 }
 
 </style>

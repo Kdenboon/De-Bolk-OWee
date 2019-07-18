@@ -12,8 +12,8 @@ module.exports = {
     planning:[
       {
         titel: {
-          dutch: 'MEGA-spellen',
-          english: 'MEGA-games'
+          dutch: 'Constructie wedstrijd',
+          english: 'Construction game'
         },
         start: 1700,
         end: 1800,
@@ -21,7 +21,20 @@ module.exports = {
           dutch: 'Geven Vier op een rij en Jenga jou nostalgische gevoelens? Kom het spelen in het MEGA. Zorg ervoor dat je overwinning ook van een afstand te bewonderen is of daag je vrienden uit voor een rematch. Of probeer iets anders en ga spijkerslaan. Iedereen om een GROTE boomstronk, spijkers en hamers, dit kan alleen maar voor ENORM veel plezier zorgen!',
           english: 'Do Connect Four and Jenga give you nostalgic feelings? Play it in MEGA. Make sure that your victory can also be admired from a distance or challenge your friends to a rematch. Or try something different and play Nail Stump. Everyone around a BIG tree stump, nails and hammers, this can only lead to a HUGE amount of fun!'
         },
-        lokatie: 'midden'
+        lokatie: 'links'
+      },
+      {
+        titel: {
+          dutch: '3D-twister',
+          english: '3D-twister'
+        },
+        start: 1700,
+        end: 1800,
+        beschrijving: {
+          dutch: 'Waarom een zeil met gekleurde stippen gebruiken als je ook in het vooronder van onze botter naar gekleurde rondjes kan zoeken die op allemaal random plekken zitten? Daarom hebben we twister een 3D karakter gegeven. Wring je in de meest onmogelijke bochten, ontdek allerlei hoekjes en gaatjes en zorg dat je niet omvalt!',
+          english: 'Why use a mat with coloured dots if you can search for randomly placed coloured circles at our sailing ship? That’s why we have given twister a 3D character. Put yourself in precarious positions, discover special corners of our historical boat and make sure you don’t fall!'
+        },
+        lokatie: 'rechts'
       },
       {
         titel: {
@@ -38,6 +51,19 @@ module.exports = {
       },
       {
         titel: {
+          dutch: 'MEGA-spellen',
+          english: 'MEGA-games'
+        },
+        start: 2000,
+        end: 2200,
+        beschrijving: {
+          dutch: 'Geven Vier op een rij en Jenga jou nostalgische gevoelens? Kom het spelen in het MEGA. Zorg ervoor dat je overwinning ook van een afstand te bewonderen is of daag je vrienden uit voor een rematch. Of probeer iets anders en ga spijkerslaan. Iedereen om een GROTE boomstronk, spijkers en hamers, dit kan alleen maar voor ENORM veel plezier zorgen!',
+          english: 'Do Connect Four and Jenga give you nostalgic feelings? Play it in MEGA. Make sure that your victory can also be admired from a distance or challenge your friends to a rematch. Or try something different and play Nail Stump. Everyone around a BIG tree stump, nails and hammers, this can only lead to a HUGE amount of fun!'
+        },
+        lokatie: 'links'
+      },
+      {
+        titel: {
           dutch: '3D-twister',
           english: '3D-twister'
         },
@@ -47,7 +73,7 @@ module.exports = {
           dutch: 'Waarom een zeil met gekleurde stippen gebruiken als je ook in het vooronder van onze botter naar gekleurde rondjes kan zoeken die op allemaal random plekken zitten? Daarom hebben we twister een 3D karakter gegeven. Wring je in de meest onmogelijke bochten, ontdek allerlei hoekjes en gaatjes en zorg dat je niet omvalt!',
           english: 'Why use a mat with coloured dots if you can search for randomly placed coloured circles at our sailing ship? That’s why we have given twister a 3D character. Put yourself in precarious positions, discover special corners of our historical boat and make sure you don’t fall!'
         },
-        lokatie: 'midden'
+        lokatie: 'rechts'
       },
       {
         titel: {
@@ -135,7 +161,7 @@ module.exports = {
       },
       {
         titel: {
-          dutch: 'Will it Blend?',
+          dutch: 'Kijken hoe het klinkt',
           english: 'Will it Blend?'
         },
         start: 2130,
@@ -163,7 +189,7 @@ module.exports = {
         titel: {
           dutch: 'Tosti klussen',
           english: 'Build your own Grilled cheese sandwich'
-        },        
+        },
         start: 2230,
         end: 0,
         beschrijving: {
@@ -433,7 +459,7 @@ module.exports = {
     planning: [
       {
         titel: {
-          dutch: 'Spa',
+          dutch: 'Spa met of zonder zwembad, henna, jaccuzi en theeproeverij',
           english: 'Spa'
         },
         start: 1400,
@@ -442,20 +468,7 @@ module.exports = {
           dutch: 'Ook zo moe van gisteren? Kom chillen met zwembadjes, gezichtscreme, gekoelde drankjes en je rustige zomerse muziek. ',
           english: 'Tired from yesterday? Come chill out at our spa with kiddie pools, face masks, cooled drinks and summery tunes.'
         },
-        lokatie: 'links'
-      },
-      {
-        titel: {
-          dutch: 'High Tea',
-          english: 'High Tea'
-        },
-        start: 1400,
-        end: 1700,
-        beschrijving: {
-          dutch: 'Wil jij ook lekker bij komen van een deze drukke week? Kom relaxed genieten van een theetje met een lekker koekje erbij!',
-          english: 'Are you also tired from this busy week ? Come relax with a nice cup of tea and some cookies. '
-        },
-        lokatie: 'rechts'
+        lokatie: 'midden'
       },
       {
         titel: {

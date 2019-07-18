@@ -27,7 +27,7 @@
     <div class="upsidedowntriangles"></div>
   </div>
 </template>
-
+npm
 <style>
 
 #main p{
@@ -35,7 +35,7 @@
 }
 
 #main{
-  background-color: #8700a0;
+  background-color: #1dab00;
   padding: 100px 0px;
   position: relative;
 }
@@ -57,21 +57,12 @@
   height: 100%;
 }
 
-.maintriangles{
-  height: 50px;
-  width: 100%;
-  position: absolute;
-  bottom: 0px;
-  background-image: url('~/assets/triangle-blue.svg');
-  background-size: contain;
-}
-
 .upsidedowntriangles{
   height: 50px;
   width: 100%;
   position: absolute;
   bottom: -18px;
-  background-image: url('~/assets/triangle-purple-upsidedown.svg');
+  background-image: url('~/assets/triangle-green-upsidedown.svg');
   background-size: contain;
   z-index: 5;
 }
