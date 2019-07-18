@@ -9,6 +9,7 @@
     <sleepin></sleepin>
     <quotes></quotes>
     <contact></contact>
+    <sponsor></sponsor>
   </div>
 </template>
 
@@ -22,6 +23,7 @@
   import sleepin from '~/pages/sleepin.vue'
   import contact from '~/pages/contact.vue'
   import navbar from '~/pages/navbar.vue'
+  import sponsor from "~/pages/sponsor.vue";
 
   export default {
     components: {
@@ -33,7 +35,8 @@
       kmt,
       sleepin,
       contact,
-      navbar
+      navbar,
+      sponsor
     },
 
     beforeCreate(){
