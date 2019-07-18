@@ -37,10 +37,6 @@ module.exports = [
     quote: 'Het feit dat je geaccepteerd wordt zoals je bent.'
   },
   {
-    person: 'Roel',
-    quote: 'Ik was vooral verbaasd over de combinatie van barhangers, spijkerslaan, tafelvoetbalspel en vervolgens worden gevraagd of je mee doet met veel te lang bordspel, omdat mensen daar zin in hadden tijdens de Owee.'
-  },
-  {
     person: 'Astrid',
     quote: 'Omdat de Bolk één grote familie is #cliché.'
   },
@@ -53,20 +49,8 @@ module.exports = [
     quote: 'De Bolk is die plek waar je uitgedaagd wordt om iets van de vereniging te maken en daardoor iets van jezelf te maken.'
   },
   {
-    person: 'Jasper',
-    quote: 'Boot, biertje, beregezellig.'
-  },
-  {
-    person: 'Wendy',
-    quote: 'Als je iets gaaf vindt kan dat: zoek een paar mensen die het ook leuk vinden en doe het gewoon!'
-  },
-  {
     person: 'Tim',
     quote: 'Niks moet, alles mag.'
-  },
-  {
-    person: 'Bram',
-    quote: 'Verreweg de beste vereniging van Delft'
   },
   {
     person: 'Roy',
@@ -89,10 +73,6 @@ module.exports = [
     quote: 'De Bolk heeft mijn nieuwe fiets onomkeerbaar bekladderd tijdens de OWee. rip. Twee drankjes later was ik lid.'
   },
   {
-    person: 'Anne',
-    quote: 'Omdat het hier gezellig is en ik hier mezelf kan zijn.'
-  },
-  {
     person: 'Harry',
     quote: 'Via via ben ik bij de Bolk terecht gekomen omdat een vriend tegen mij zei dat er hier een zooitje lompe nerds rondlopen.'
   },
@@ -103,10 +83,6 @@ module.exports = [
   {
     person: 'Looka',
     quote: 'Omdat ik elke avond van de OWee bij de Bolk belandde vanwege de toffe mensen. En natuurlijk de tosti\'s.'
-  },
-  {
-    person: 'Ivan',
-    quote: 'Ik had een studiegenoot die al lid was, toen zijn we naar de karaoke geweest en dacht ik: Laat ik maar eens lid worden.'
   },
   {
     person: 'Douwe',

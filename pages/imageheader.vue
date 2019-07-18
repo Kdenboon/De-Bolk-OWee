@@ -3,9 +3,14 @@
     <div id="imageheader">
       <img
         class="largelogo"
-        src="~/assets/Bolk Logo.svg">
+        src="~/assets/owee-logo-geel.svg">
       <br/>
+      <img
+        class="largetext"
+        src="~/assets/website tekst.png">
+<!--
       <h1 v-bind:class="{ 'mobileheadertext': $mq === 'mobile' }">SO EXCITED</h1>
+-->
       <div class="triangles"></div>
     </div>
   </div>
@@ -17,7 +22,7 @@
     background-size: cover;
     width: 100%;
     height: 100vh;
-    border: 10px solid #1dab00;
+    border: 10px solid #0d8141;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -40,20 +45,26 @@
     max-height: 50vh;
   }
 
+  .largetext{
+    height:25vw;
+    background-repeat: no-repeat;
+    max-height: 25vh;
+  }
+
   #imageheader .mobileheadertext{
     font-size: 4rem !important;
   }
 
   #imageheader h1{
     font-size: 8rem !important;
-    color: #F7EA2B !important;
-    text-shadow: -4px 0 #1dab00,
-                -4px -4px #1dab00,
-                4px 4px #1dab00,
-                -4px 4px #1dab00,
-                4px -4px #1dab00,
-                0 4px #1dab00,
-                4px 0 #1dab00,
-                0 -4px #1dab00;
+    color: #f5eb22 !important;
+    text-shadow: -4px 0 #0d8141,
+                -4px -4px #0d8141,
+                4px 4px #0d8141,
+                -4px 4px #0d8141,
+                4px -4px #0d8141,
+                0 4px #0d8141,
+                4px 0 #0d8141,
+                0 -4px #0d8141;
   }
 </style>

@@ -12,8 +12,8 @@ module.exports = {
     planning:[
       {
         titel: {
-          dutch: 'Constructie wedstrijd',
-          english: 'Construction game'
+          dutch: 'MEGA-spellen',
+          english: 'MEGA-games'
         },
         start: 1700,
         end: 1800,
@@ -21,20 +21,7 @@ module.exports = {
           dutch: 'Geven Vier op een rij en Jenga jou nostalgische gevoelens? Kom het spelen in het MEGA. Zorg ervoor dat je overwinning ook van een afstand te bewonderen is of daag je vrienden uit voor een rematch. Of probeer iets anders en ga spijkerslaan. Iedereen om een GROTE boomstronk, spijkers en hamers, dit kan alleen maar voor ENORM veel plezier zorgen!',
           english: 'Do Connect Four and Jenga give you nostalgic feelings? Play it in MEGA. Make sure that your victory can also be admired from a distance or challenge your friends to a rematch. Or try something different and play Nail Stump. Everyone around a BIG tree stump, nails and hammers, this can only lead to a HUGE amount of fun!'
         },
-        lokatie: 'links'
-      },
-      {
-        titel: {
-          dutch: '3D-twister',
-          english: '3D-twister'
-        },
-        start: 1700,
-        end: 1800,
-        beschrijving: {
-          dutch: 'Waarom een zeil met gekleurde stippen gebruiken als je ook in het vooronder van onze botter naar gekleurde rondjes kan zoeken die op allemaal random plekken zitten? Daarom hebben we twister een 3D karakter gegeven. Wring je in de meest onmogelijke bochten, ontdek allerlei hoekjes en gaatjes en zorg dat je niet omvalt!',
-          english: 'Why use a mat with coloured dots if you can search for randomly placed coloured circles at our sailing ship? That’s why we have given twister a 3D character. Put yourself in precarious positions, discover special corners of our historical boat and make sure you don’t fall!'
-        },
-        lokatie: 'rechts'
+        lokatie: 'midden'
       },
       {
         titel: {
@@ -51,19 +38,6 @@ module.exports = {
       },
       {
         titel: {
-          dutch: 'MEGA-spellen',
-          english: 'MEGA-games'
-        },
-        start: 2000,
-        end: 2200,
-        beschrijving: {
-          dutch: 'Geven Vier op een rij en Jenga jou nostalgische gevoelens? Kom het spelen in het MEGA. Zorg ervoor dat je overwinning ook van een afstand te bewonderen is of daag je vrienden uit voor een rematch. Of probeer iets anders en ga spijkerslaan. Iedereen om een GROTE boomstronk, spijkers en hamers, dit kan alleen maar voor ENORM veel plezier zorgen!',
-          english: 'Do Connect Four and Jenga give you nostalgic feelings? Play it in MEGA. Make sure that your victory can also be admired from a distance or challenge your friends to a rematch. Or try something different and play Nail Stump. Everyone around a BIG tree stump, nails and hammers, this can only lead to a HUGE amount of fun!'
-        },
-        lokatie: 'links'
-      },
-      {
-        titel: {
           dutch: '3D-twister',
           english: '3D-twister'
         },
@@ -74,6 +48,19 @@ module.exports = {
           english: 'Why use a mat with coloured dots if you can search for randomly placed coloured circles at our sailing ship? That’s why we have given twister a 3D character. Put yourself in precarious positions, discover special corners of our historical boat and make sure you don’t fall!'
         },
         lokatie: 'rechts'
+      },
+      {
+        titel: {
+          dutch: 'MEGA-spellen',
+          english: 'MEGA-games'
+        },
+        start: 2000,
+        end: 2200,
+        beschrijving: {
+          dutch: 'Geven Vier op een rij en Jenga jou nostalgische gevoelens? Kom het spelen in het MEGA. Zorg ervoor dat je overwinning ook van een afstand te bewonderen is of daag je vrienden uit voor een rematch. Of probeer iets anders en ga spijkerslaan. Iedereen om een GROTE boomstronk, spijkers en hamers, dit kan alleen maar voor ENORM veel plezier zorgen!',
+          english: 'Do Connect Four and Jenga give you nostalgic feelings? Play it in MEGA. Make sure that your victory can also be admired from a distance or challenge your friends to a rematch. Or try something different and play Nail Stump. Everyone around a BIG tree stump, nails and hammers, this can only lead to a HUGE amount of fun!'
+        },
+        lokatie: 'links'
       },
       {
         titel: {
@@ -109,8 +96,8 @@ module.exports = {
     planning: [
       {
         titel: {
-          dutch: 'Hertje zonnebril',
-          english: 'That sunglasses doe'
+          dutch: 'Nederlandse spellen',
+          english: 'Dutch games'
         },
         start: 1700,
         end: 1800,
@@ -126,7 +113,7 @@ module.exports = {
           english: 'Escaperoom'
         },
         start: 1700,
-        end: 2130,
+        end: 2100,
         beschrijving: {
           dutch: 'Voor de Bolk ligt een botter en zoals je weet zijn boten soms lastig te navigeren. Helemaal nu we van de botter een escaperoom gemaakt hebben. Probeer je weg naar buiten te vinden door puzzels op te lossen in het ruim van ons schip en zet de snelste tijd neer.',
           english: 'In front of the Bolk you can find our boat and boats are, as you might know, pretty hard to navigate. Especially now that we’ve made it into an escaperoom. Try to find your way out by solving puzzles in the hold of our boat and set a new time record.'
@@ -148,11 +135,11 @@ module.exports = {
       },
       {
         titel: {
-          dutch: 'Pubquiz',
-          english: 'Pubquiz'
+          dutch: 'Theeproeverij + Loco met Choco',
+          english: 'Tea Tasting + Loco with Choco'
         },
         start: 2000,
-        end: 2130,
+        end: 2100,
         beschrijving: {
           dutch: 'Verbaas je vrienden met je superieure kennis over willekeurige trivia zoals: “Wisten jullie dat de ster die het dichtst bij de aarde staat de zon is?”, “Wisten jullie dat Lingo 5000 afleveringen telt?” en “Wisten jullie dat Willem van Oranje in het pand van De Bolk heeft overnacht?” Deze willekeurige bullshit kan jou een voorsprong geven op de overwinning van deze e-pi-sche pubquiz. Of kom langs om voor de gezelligheid en omdat je dingen wil leren ofzo.',
           english: '[In Dutch] Surprise your friends with your superior knowledge of random trivia. Or just come by to enjoy the atmosphere and learn a thing or two.'
@@ -162,9 +149,9 @@ module.exports = {
       {
         titel: {
           dutch: 'Kijken hoe het klinkt',
-          english: 'Will it Blend?'
+          english: 'See how it sounds'
         },
-        start: 2130,
+        start: 2100,
         end: 2200,
         beschrijving: {
           dutch: 'Altijd al benieuwd geweest wat er gebeurd als je je spullen in een blender gooit? Wij ook niet! Kom er achter op de Bolk!',
@@ -202,7 +189,7 @@ module.exports = {
         titel: {
           dutch: 'Mix je Mojito',
           english: 'Mix your Mojito'
-        },        
+        },
         start: 2230,
         end: 0,
         beschrijving: {
@@ -226,6 +213,19 @@ module.exports = {
       },
       {
         titel: {
+          dutch: 'Ochtend gymnastiek',
+          english: 'Morning workout'
+        },
+        start: 400,
+        end: 430,
+        beschrijving: {
+          dutch: 'Als je nog wakker bent op dit late (vroege?) uur dan helpt een beetje ochtendgymnastiek je vaak weer wat beter de dag door.',
+          english: 'Still awake at this late (early?) hour? Then a nice morning workout will get you right up and running again!'
+        },
+        lokatie: 'rechts'
+      },
+      {
+        titel: {
           dutch: '4 uur cup-a-soup',
           english: '4 o\'clock cup-a-soup'
         },
@@ -235,7 +235,7 @@ module.exports = {
           dutch: 'Beetje moe? Wil je je weer levend voelen, als herboren? Neem dan een 4 uur Cup-a-Soup, dat zouden meer mensen moeten doen!',
           english: 'Tired after a long night? Wanna feel alive, like you were born again? Then enjoy a nice cup of soup!'
         },
-        lokatie: 'midden'
+        lokatie: 'links'
       }
     ]
   },
@@ -401,8 +401,8 @@ module.exports = {
       },
       {
         titel: {
-          dutch: 'Hora Mexicana',
-          english: 'The Hora Mexicana'
+          dutch: 'Ohana means Family',
+          english: 'Ohana means Family'
         },
         start: 200,
         end: 300,
@@ -436,21 +436,8 @@ module.exports = {
           dutch: 'Beetje moe? Wil je je weer levend voelen, als herboren? Neem dan een 4 uur Cup-a-Soup, dat zouden meer mensen moeten doen!',
           english: 'Tired after a long night? Wanna feel alive, like you were born again? Then enjoy a nice cup of soup!'
         },
-        lokatie: 'links'
+        lokatie: 'midden'
       },
-      {
-        titel: {
-          dutch: 'Ochtend gymnastiek',
-          english: 'Morning workout'
-        },
-        start: 400,
-        end: 430,
-        beschrijving: {
-          dutch: 'Als je nog wakker bent op dit late (vroege?) uur dan helpt een beetje ochtendgymnastiek je vaak weer wat beter de dag door.',
-          english: 'Still awake at this late (early?) hour? Then a nice morning workout will get you right up and running again!'
-        },
-        lokatie: 'rechts'
-      }
     ]
   },
 
@@ -459,29 +446,42 @@ module.exports = {
     planning: [
       {
         titel: {
-          dutch: 'Spa met of zonder zwembad, henna, jaccuzi en theeproeverij',
+          dutch: 'Spa',
           english: 'Spa'
         },
         start: 1400,
-        end: 1700,
+        end: 1800,
         beschrijving: {
           dutch: 'Ook zo moe van gisteren? Kom chillen met zwembadjes, gezichtscreme, gekoelde drankjes en je rustige zomerse muziek. ',
           english: 'Tired from yesterday? Come chill out at our spa with kiddie pools, face masks, cooled drinks and summery tunes.'
         },
-        lokatie: 'midden'
+        lokatie: 'links'
       },
       {
         titel: {
-          dutch: 'Theeproeverij',
-          english: 'Tea Tasting'
+          dutch: 'High Tea',
+          english: 'High Tea'
         },
-        start: 1700,
-        end: 1800,
+        start: 1400,
+        end: 1700,
         beschrijving: {
-          dutch: 'Zwarte thee, groene thee, witte thee, kruidenthee en nog veel meer. Er zijn zo veel theesoorten in de wereld. Kom een kleine selectie proeven! Misschien ontdek jij wel je nieuwste favoriete theesmaak of weet je alle smaken feilloos te benoemen.',
-          english: 'Black tea, green tea, white tea, herbal tea and much more. There are so many tea flavours in the world. Come and taste a small selection! Maybe you discover your latest favourite tea or you pick out all flavour flawlessly.'
+          dutch: 'Wil jij ook lekker bij komen van een deze drukke week? Kom relaxed genieten van een theetje met een lekker koekje erbij!',
+          english: 'Are you also tired from this busy week ? Come relax with a nice cup of tea and some cookies. '
         },
-        lokatie: 'midden'
+        lokatie: 'rechts'
+      },
+      {
+        titel: {
+          dutch: 'Bob Ross',
+          english: 'Bob Ross'
+        },
+        start: 1545,
+        end: 1730,
+        beschrijving: {
+          dutch: 'Wil jij ook lekker bij komen van een deze drukke week? Kom relaxed genieten van een theetje met een lekker koekje erbij!',
+          english: 'Are you also tired from this busy week ? Come relax with a nice cup of tea and some cookies. '
+        },
+        lokatie: 'rechts'
       },
       {
         titel: {
@@ -507,25 +507,12 @@ module.exports = {
           dutch: 'Live muziek is leuk, maar het is nog veel leuker om live muziek op een van de oudste botters van Nederland te zien! Kom genieten van vrolijke bands en kom even bij van de heftige week feesten. Deze bruisende afsluiter zorgt voor een onvergetelijke week!',
           english: 'Live music is fun! Consider live music on a boat! I’M ON A BOAT! Take a look at me! Trui (the name of the boat) is the only botter that is managed by students and the oldest botter that has continuously sailed over the last century.'
         },
-        lokatie: 'links'
+        lokatie: 'midden'
       },
       {
         titel: {
-          dutch: 'Loco met choco',
-          english: 'Loco with choco'
-        },
-        start: 2130,
-        end: 2230,
-        beschrijving: {
-          dutch: 'Chocoladetaart, chocoladecake, chocoladekoekjes, chocoladecocktails, chocolademousse … Voor alle chocoladeliefhebbers hebben onze keukenprinsen en -prinsessen alles uit de kast gehaald om de meest chocola houdende baksels te creëren. Bestaat er iets als te veel chocola? Vind het uit!',
-          english: 'Chocolate cake, chocolate biscuits, chocolate cocktails, chocolate mousse … For all chocolate lovers our kitchen princes and princesses have tried to create the most chocolate-containing pastry. Is there something like too much chocolate? Find it out!'
-        },
-        lokatie: 'rechts'
-      },
-      {
-        titel: {
-          dutch: 'Borrel to be alive',
-          english: 'Party to be alive'
+          dutch: 'Super excited borrel',
+          english: 'Super excited party'
         },
         start: 2315,
         end: 400,
@@ -534,19 +521,6 @@ module.exports = {
           english: 'This ultimate Bolk experience ensures that you feel alive (again). Close your week off with a bang and Party to be alive.'
         },
         lokatie: 'midden'
-      },
-      {
-        titel: {
-          dutch: 'Intermezzo',
-          english: 'Intermezzo'
-        },
-        start: 2300,
-        end: 2315,
-        beschrijving: {
-          dutch: 'Neem eventjes rust.',
-          english: 'Have a break.'
-        },
-        lokatie: 'rechts'
       },
       {
         titel: {

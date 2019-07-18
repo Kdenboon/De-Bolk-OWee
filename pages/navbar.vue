@@ -73,7 +73,7 @@ export default{
 
 <style>
   .navbar{
-    background-color: #1dab00;
+    background-color: #0d8141;
   }
 
   .flag{
@@ -83,12 +83,12 @@ export default{
   }
 
   .navbar-menu{
-    background-color: #1dab00;
+    background-color: #0d8141;
     text-align: center;
     width: 100%;
     padding: 0;
     position: fixed;
-    border-bottom: 5px solid #F7EA2B;
+    border-bottom: 5px solid #f5eb22;
     transition: 0.2s ease all;
   }
 
@@ -101,7 +101,7 @@ export default{
   }
 
   .navbar-brand{
-    border-bottom: 5px solid #F7EA2B;
+    border-bottom: 5px solid #f5eb22;
   }
 
   .navbar-menu a {
@@ -123,7 +123,7 @@ export default{
   }
 
   .menuitemcontainer:hover a{
-    color: #1dab00;
+    color: #0d8141;
   }
 
   .navbar a{

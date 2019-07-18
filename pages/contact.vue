@@ -34,11 +34,11 @@
 }
 
 #contact a:hover{
-  color: #F7EA2B;
+  color: #f5eb22;
 }
 
 #contact{
-  background-color: #1dab00;
+  background-color: #0d8141;
   padding: 100px 0px;
   position: relative;
   text-align: center;

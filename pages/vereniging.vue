@@ -30,12 +30,12 @@
   background-image: url('~/assets/fotos/groepsfoto.jpg');
   background-size: cover;
   background-position: bottom;
-  color: #1dab00;
+  color: #0d8141;
   position: relative;
 }
 
 #vereniging h2{
-  color: #1dab00 !important;
+  color: #0d8141 !important;
 }
 
 .verenigingtriangles{

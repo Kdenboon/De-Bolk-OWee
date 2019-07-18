@@ -76,7 +76,7 @@ export default{
 }
 
 #schema{
-  background-color: #1dab00;
+  background-color: #0d8141;
   padding: 100px 0px;
   position: relative;
 }

@@ -2,19 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d099268a-a989-47a0-a342-2d05e5c7f0a9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/static/fonts/KOMIKAX_.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/WEbsite tekst.ai" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/website tekst.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/Bolk Logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/Bolk Logo.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/programma.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/programma.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/triangle-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/triangle-yellow.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/triangle-purple-upsidedown.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/triangle-green-upsidedown.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/triangle-purple.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/triangle-green.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/quotes.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/quotes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/triangle-green-upsidedown.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/triangle-green-upsidedown.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/triangle-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/triangle-green.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/triangle-yellow.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/triangle-yellow.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/components/programmas.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/programmas.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nuxt.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/nuxt.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/contact.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/contact.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/imageheader.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/imageheader.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/kmt.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/kmt.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/maintext.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/maintext.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/navbar.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/navbar.vue" afterDir="false" />
@@ -29,38 +29,63 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CheckStyle-IDEA-workspace">
+    <option name="configuration">
+      <map>
+        <entry key="last-active-plugin-version" value="5.22.0" />
+      </map>
+    </option>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1064467881">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts">
+        <counts>
+          <entry key="ESLintLanguageService" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="jpg" value="6" />
+          <entry key="js" value="2" />
+          <entry key="svg" value="3" />
+          <entry key="vue" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Image" value="6" />
+          <entry key="JavaScript" value="2" />
+          <entry key="SVG" value="3" />
+          <entry key="Vue.js" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="vue" value="236" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Vue.js" value="236" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pages/imageheader.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+            <state relative-caret-position="69">
+              <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/components/programmas.vue">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2601">
-              <caret line="159" column="12" lean-forward="true" selection-start-line="159" selection-start-column="12" selection-end-line="159" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/assets/programma.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4369">
-              <caret line="461" column="76" selection-start-line="461" selection-start-column="76" selection-end-line="461" selection-end-column="76" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/Bolk Logo beter.svg">
-          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
@@ -71,10 +96,17 @@
       <find>BRITA</find>
       <find>triangle-blue</find>
       <find>triangle-purple</find>
-      <find>F7EA2B</find>
       <find>87eebf</find>
       <find>bolk logo</find>
+      <find>1dab00</find>
+      <find>F7EA2B</find>
+      <find>0d8141</find>
+      <find>#</find>
     </findStrings>
+    <replaceStrings>
+      <replace>0d8141</replace>
+      <replace>f5eb22</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -95,20 +127,35 @@
         <option value="$PROJECT_DIR$/assets/triangle-green.svg" />
         <option value="$PROJECT_DIR$/assets/triangle-purple-upsidedown.svg" />
         <option value="$PROJECT_DIR$/pages/vereniging.vue" />
-        <option value="$PROJECT_DIR$/pages/maintext.vue" />
         <option value="$PROJECT_DIR$/pages/kmt.vue" />
         <option value="$PROJECT_DIR$/pages/contact.vue" />
         <option value="$PROJECT_DIR$/pages/quotes.vue" />
-        <option value="$PROJECT_DIR$/assets/quotes.js" />
         <option value="$PROJECT_DIR$/assets/Bolk Logo.svg" />
-        <option value="$PROJECT_DIR$/pages/imageheader.vue" />
         <option value="$PROJECT_DIR$/assets/programma.js" />
+        <option value="$PROJECT_DIR$/pages/maintext.vue" />
+        <option value="$PROJECT_DIR$/assets/quotes.js" />
+        <option value="$PROJECT_DIR$/assets/image2vector.svg" />
+        <option value="$PROJECT_DIR$/pages/imageheader.vue" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1086" />
-    <option name="y" value="-11" />
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="414" />
+    <option name="y" value="123" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
@@ -118,32 +165,34 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="De-Bolk-OWee" type="b2602c69:ProjectViewProjectNode" />
-              <item name="De-Bolk-OWee" type="462c0819:PsiDirectoryNode" />
+              <item name="De-Bolk-OWee-mijn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="De-Bolk-OWee-mijn" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="De-Bolk-OWee" type="b2602c69:ProjectViewProjectNode" />
-              <item name="De-Bolk-OWee" type="462c0819:PsiDirectoryNode" />
+              <item name="De-Bolk-OWee-mijn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="De-Bolk-OWee-mijn" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="De-Bolk-OWee" type="b2602c69:ProjectViewProjectNode" />
-              <item name="De-Bolk-OWee" type="462c0819:PsiDirectoryNode" />
+              <item name="De-Bolk-OWee-mijn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="De-Bolk-OWee-mijn" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="fotos" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="De-Bolk-OWee-mijn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="De-Bolk-OWee-mijn" type="462c0819:PsiDirectoryNode" />
               <item name="components" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="De-Bolk-OWee" type="b2602c69:ProjectViewProjectNode" />
-              <item name="De-Bolk-OWee" type="462c0819:PsiDirectoryNode" />
-              <item name="layouts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="De-Bolk-OWee" type="b2602c69:ProjectViewProjectNode" />
-              <item name="De-Bolk-OWee" type="462c0819:PsiDirectoryNode" />
+              <item name="De-Bolk-OWee-mijn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="De-Bolk-OWee-mijn" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -155,7 +204,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556635450461" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563446670967" />
     <property name="editor.config.ad.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -166,13 +215,15 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Kevin\Documents\De-Bolk-OWee\assets" />
-      <recent name="C:\Users\Kevin\Documents\De-Bolk-OWee\static\fonts" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Kevin\Documents\De-Bolk-OWee-mijn\assets" />
       <recent name="C:\Users\Kevin\Documents\De-Bolk-OWee\assets\fotos" />
       <recent name="C:\Users\Kevin\Documents\De-Bolk-OWee\assets" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Kevin\Documents\De-Bolk-OWee-mijn\assets" />
+      <recent name="C:\Users\Kevin\Documents\De-Bolk-OWee\assets" />
+      <recent name="C:\Users\Kevin\Documents\De-Bolk-OWee\static\fonts" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -201,24 +252,28 @@
       <workItem from="1556629862944" duration="4463000" />
       <workItem from="1557228065025" duration="232000" />
       <workItem from="1557228313432" duration="3376000" />
+      <workItem from="1563437358442" duration="7328000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8937000" />
+    <option name="totallyTimeSpent" value="16265000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
+    <frame x="414" y="123" width="1400" height="1000" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25596184" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3619403" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" />
+      <window_info anchor="bottom" id="CheckStyle" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.35093898" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -226,9 +281,11 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32969603" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32929516" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="SciView" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -243,15 +300,12 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/static/js/fitty.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor" />
@@ -283,13 +337,6 @@
     <entry file="file://$PROJECT_DIR$/static/fonts/KOMIKAX_.ttf">
       <provider selected="true" editor-type-id="fontseditor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/index.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="770">
-          <caret line="71" column="2" selection-start-line="71" selection-start-column="2" selection-end-line="71" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pages/contact.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="615">
@@ -297,24 +344,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/maintext.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="530">
-          <caret line="42" column="18" lean-forward="true" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pages/navbar.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-14">
           <caret line="90" column="36" selection-start-line="90" selection-start-column="36" selection-end-line="90" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/quotes.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="770">
-          <caret line="72" column="27" selection-start-line="72" selection-start-column="27" selection-end-line="72" selection-end-column="27" />
         </state>
       </provider>
     </entry>
@@ -339,17 +372,54 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/assets/triangle-green.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/triangle.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/programmas.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="10" lean-forward="true" selection-start-column="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/assets/fotos/groepsfoto.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/fotos/DSC_0316.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/assets/fotos/kmt botter.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/assets/fotos/societeit.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/fotos/kmt botter.jpg">
+    <entry file="file://$PROJECT_DIR$/assets/Bolk Logo beter.svg">
       <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/programma.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-368">
+          <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/index.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="77" column="17" lean-forward="true" selection-start-line="77" selection-start-column="17" selection-end-line="77" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/maintext.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="20" column="80" selection-start-line="20" selection-start-column="80" selection-end-line="20" selection-end-column="80" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/kmt.vue">
       <provider selected="true" editor-type-id="text-editor">
@@ -358,46 +428,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/triangle-green.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/triangle.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/quotes.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-31" />
+        <state relative-caret-position="1955">
+          <caret line="85" column="4" selection-start-line="85" selection-start-column="4" selection-end-line="85" selection-end-column="4" />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/Bolk Logo.svg">
+    <entry file="file://$PROJECT_DIR$/pages/quotes.vue">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-676">
+          <caret line="72" column="27" selection-start-line="72" selection-start-column="27" selection-end-line="72" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/owee-logo-geel.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Bolk Logo.svg">
+      <provider selected="true" editor-type-id="images" />
+      <provider editor-type-id="text-editor">
         <state relative-caret-position="278">
           <caret line="17" column="30" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
         </state>
       </provider>
-      <provider editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/Bolk Logo beter.svg">
-      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/imageheader.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/components/programmas.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2601">
-          <caret line="159" column="12" lean-forward="true" selection-start-line="159" selection-start-column="12" selection-end-line="159" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/programma.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4369">
-          <caret line="461" column="76" selection-start-line="461" selection-start-column="76" selection-end-line="461" selection-end-column="76" />
+        <state relative-caret-position="69">
+          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
         </state>
       </provider>
     </entry>

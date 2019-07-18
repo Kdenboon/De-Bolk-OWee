@@ -170,8 +170,8 @@ export default {
 .event {
   cursor: pointer;
   width: 100%;
-  background-color: #F7EA2B;
-  border: 2px solid #1dab00;
+  background-color: #f5eb22;
+  border: 2px solid #0d8141;
   border-radius: 10px;
   position: absolute;
   font-size: 0.25em;
