@@ -2,26 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d099268a-a989-47a0-a342-2d05e5c7f0a9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/WEbsite tekst.ai" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/website tekst.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Tekst svg versie 2.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Bolk Logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/Bolk Logo.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/programma.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/programma.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/quotes.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/quotes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/triangle-green-upsidedown.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/triangle-green-upsidedown.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/triangle-green.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/triangle-green.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/triangle-yellow.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/triangle-yellow.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/programmas.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/programmas.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/contact.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/contact.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/WEbsite tekst.ai" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/website tekst.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/imageheader.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/imageheader.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/kmt.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/kmt.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/maintext.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/maintext.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/navbar.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/navbar.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/quotes.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/quotes.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/schema.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/schema.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/sleepin.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/sleepin.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/vereniging.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/vereniging.vue" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,13 +25,15 @@
     <session id="1064467881">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts">
         <counts>
-          <entry key="ESLintLanguageService" value="1" />
+          <entry key="ESLintLanguageService" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -54,7 +41,7 @@
           <entry key="jpg" value="6" />
           <entry key="js" value="2" />
           <entry key="svg" value="3" />
-          <entry key="vue" value="5" />
+          <entry key="vue" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -62,17 +49,17 @@
           <entry key="Image" value="6" />
           <entry key="JavaScript" value="2" />
           <entry key="SVG" value="3" />
-          <entry key="Vue.js" value="5" />
+          <entry key="Vue.js" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="vue" value="236" />
+          <entry key="vue" value="276" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Vue.js" value="236" />
+          <entry key="Vue.js" value="276" />
         </counts>
       </usages-collector>
     </session>
@@ -82,8 +69,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pages/imageheader.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+            <state relative-caret-position="391">
+              <caret line="47" column="18" selection-start-line="47" selection-start-column="18" selection-end-line="47" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -154,8 +141,8 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="414" />
-    <option name="y" value="123" />
+    <option name="x" value="300" />
+    <option name="y" value="5" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
@@ -165,8 +152,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -195,16 +180,23 @@
               <item name="De-Bolk-OWee-mijn" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="De-Bolk-OWee-mijn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="De-Bolk-OWee-mijn" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563446670967" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563454766722" />
     <property name="editor.config.ad.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -253,25 +245,24 @@
       <workItem from="1557228065025" duration="232000" />
       <workItem from="1557228313432" duration="3376000" />
       <workItem from="1563437358442" duration="7328000" />
+      <workItem from="1563785596675" duration="202000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16265000" />
+    <option name="totallyTimeSpent" value="17074000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="414" y="123" width="1400" height="1000" extended-state="0" />
+    <frame x="300" y="5" width="1400" height="1000" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3619403" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26288274" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="FindBugs-IDEA" />
-      <window_info anchor="bottom" id="CheckStyle" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.35093898" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -282,10 +273,10 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32929516" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3286385" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="right" id="SciView" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="12" />
+      <window_info anchor="bottom" id="CheckStyle" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -295,6 +286,8 @@
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Maven Projects" order="9" />
+      <window_info anchor="right" id="SciView" order="10" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -355,13 +348,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="770">
           <caret line="78" column="27" selection-start-line="78" selection-start-column="27" selection-end-line="78" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/sleepin.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
         </state>
       </provider>
     </entry>
@@ -453,10 +439,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pages/sleepin.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pages/imageheader.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+        <state relative-caret-position="391">
+          <caret line="47" column="18" selection-start-line="47" selection-start-column="18" selection-end-line="47" selection-end-column="18" />
         </state>
       </provider>
     </entry>

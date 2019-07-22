@@ -7,10 +7,7 @@
       <br/>
       <img
         class="largetext"
-        src="~/assets/website tekst.png">
-<!--
-      <h1 v-bind:class="{ 'mobileheadertext': $mq === 'mobile' }">SO EXCITED</h1>
--->
+        src="~/assets/Tekst svg versie 2.svg">
       <div class="triangles"></div>
     </div>
   </div>
@@ -46,9 +43,9 @@
   }
 
   .largetext{
-    height:25vw;
+    height:75vw;
     background-repeat: no-repeat;
-    max-height: 25vh;
+    max-height: 75vh;
   }
 
   #imageheader .mobileheadertext{
