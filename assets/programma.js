@@ -517,8 +517,8 @@ module.exports = {
         start: 2315,
         end: 400,
         beschrijving: {
-          dutch: 'Deze ultieme Bolk experience zorgt ervoor dat je je (weer) levendig voelt. Sluit je week af met een knaller en borrel to be alive!',
-          english: 'This ultimate Bolk experience ensures that you feel alive (again). Close your week off with a bang and Party to be alive.'
+          dutch: 'Deze ultieme Bolk experience zorgt ervoor dat je je (weer) levendig voelt. Sluit je week af met een knaller. We\'re so excited!',
+          english: 'This ultimate Bolk experience ensures that you feel alive (again). Close your week off with a bang. We\'re so excited!'
         },
         lokatie: 'midden'
       },
