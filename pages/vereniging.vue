@@ -27,7 +27,7 @@
 
 #vereniging{
   padding: 100px 0px;
-  background-image: url('~/assets/fotos/groepsfoto.jpg');
+  background-image: url('~/assets/fotos/ledenweekend.png');
   background-size: cover;
   background-position: bottom;
   color: #0d8141;

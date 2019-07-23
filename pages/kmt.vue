@@ -26,7 +26,7 @@
   background-color: #f5eb22;
   color: #0d8141;
   position: relative;
-  background-image: url('~/assets/fotos/kmt botter.jpg');
+  background-image: url('~/assets/fotos/kmt.jpg');
   background-position: bottom;
   background-size: cover;
 }

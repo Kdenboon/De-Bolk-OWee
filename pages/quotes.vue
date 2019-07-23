@@ -73,7 +73,7 @@ export default{
   background-color: #f5eb22;
   color: white;
   position: relative;
-  background-image: url('~/assets/fotos/societeit.jpg');
+  background-image: url('~/assets/fotos/bolk.jpg');
   background-size: cover;
   background-position: bottom;
 }

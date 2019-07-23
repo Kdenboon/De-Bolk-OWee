@@ -102,8 +102,8 @@ module.exports = {
         start: 1700,
         end: 1800,
         beschrijving: {
-          dutch: 'Het oud-hollandse spel ezeltje-prik-je, maar dan anders! Probeer geblinddoekt de zonnebril op de neus van het hert te zetten.',
-          english: 'Try to put the sunglasses on the deer’s nose - while being blindfolded!'
+          dutch: 'De meeste nederlandse spellen zijn wel bekend maar heb je nooit gespeeld. Kom ze uitproberen op onze eigen Bolkse manier.',
+          english: 'You’ve probably heard of Dutch games but never played. Come try them out in our own Bolk way.'
         },
         lokatie: 'links'
       },
@@ -141,8 +141,8 @@ module.exports = {
         start: 2000,
         end: 2100,
         beschrijving: {
-          dutch: 'Verbaas je vrienden met je superieure kennis over willekeurige trivia zoals: “Wisten jullie dat de ster die het dichtst bij de aarde staat de zon is?”, “Wisten jullie dat Lingo 5000 afleveringen telt?” en “Wisten jullie dat Willem van Oranje in het pand van De Bolk heeft overnacht?” Deze willekeurige bullshit kan jou een voorsprong geven op de overwinning van deze e-pi-sche pubquiz. Of kom langs om voor de gezelligheid en omdat je dingen wil leren ofzo.',
-          english: '[In Dutch] Surprise your friends with your superior knowledge of random trivia. Or just come by to enjoy the atmosphere and learn a thing or two.'
+          dutch: 'Er is thee! Er is chocola! Kom verschillende thee proeven in combinatie met heerlijke zelfgemaakte chocoladebaksels!',
+          english: 'We have tea! We have chocolate! Come taste all kinds of different tea and eat our delicious home made chocolate containing pastries!'
         },
         lokatie: 'links'
       },
@@ -154,8 +154,8 @@ module.exports = {
         start: 2100,
         end: 2200,
         beschrijving: {
-          dutch: 'Altijd al benieuwd geweest wat er gebeurd als je je spullen in een blender gooit? Wij ook niet! Kom er achter op de Bolk!',
-          english: 'Do you know what happens when you throw some stuff in a blender ? We neither! Find it out at the Bolk!'
+          dutch: 'Kom raden wat er achter een doek kapot wordt gegooid.',
+          english: 'Guess what kind of object is breaking behind a curtain.'
         },
         lokatie: 'midden'
       },
@@ -407,8 +407,8 @@ module.exports = {
         start: 200,
         end: 300,
         beschrijving: {
-          dutch: 'In dit uur is de muziek aangepast op de sfeer die wordt neergezet bij De Bolk! We gaan niet een uur lang alleen maar Spaanse zinnen brabbelen of Despacito luisteren (hij komt vast wel voorbij), maar waarschijnlijk roepen we wel willekeurige Spaanse woorden naar elkaar toe tijdens dit Mexicaanse uur! Drink tequila en ga los! Olé!',
-          english: '“¡En esta hora la música se adapta a la atmósfera que se pone en De Bolk! No solo escuchamos frases en español durante una hora o escuchamos a Despacito (probablemente pasará), ¡pero probablemente llamaremos palabras aleatorias en español durante esta hora mexicana! ¡Bebe tequila y listo! ¡Olé!”'
+          dutch: 'Creëer het ultieme zomerse gevoel met hawaiiaanse drankjes uit kokosnoten en frisse hapjes tijdens de Hawaiiaanse borrel.',
+          english: 'Create the ultimate summer feeling with hawaiian drinks from coconuts and cool snacks in the hawaiian hour.\n'
         },
         lokatie: 'links'
       },
@@ -478,8 +478,8 @@ module.exports = {
         start: 1545,
         end: 1730,
         beschrijving: {
-          dutch: 'Wil jij ook lekker bij komen van een deze drukke week? Kom relaxed genieten van een theetje met een lekker koekje erbij!',
-          english: 'Are you also tired from this busy week ? Come relax with a nice cup of tea and some cookies. '
+          dutch: 'Doe live mee met de enige echte Bob Ross op de beamer en schilder blije kleine wolkjes en boompjes.',
+          english: 'Join a painting session of the one and only Bob Ross en paint happy little clouds and trees.'
         },
         lokatie: 'rechts'
       },
@@ -531,7 +531,7 @@ module.exports = {
         end: 15,
         beschrijving: {
           dutch: 'Er is een feestje op de Bolk. En bij een feestje hoort natuurlijk gefrituurde meuk. Dat is iets wat we altijd wel op voorraad hebben. Kost geen geld, het hoort er nou eenmaal een beetje bij.',
-          english: 'There is a party at the Bolk and every party needs deep fried shit. That is something we always have in stock. Free or charge, it’s just something we like to do.'
+          english: 'There is a party at the Bolk and every party needs deep fried shit. That is something we always have in stock. Free of charge, it’s just something we like to do.'
         },
         lokatie: 'links'
       },
