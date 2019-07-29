@@ -87,5 +87,9 @@ module.exports = [
   {
     person: 'Douwe',
     quote: 'Bolk is love, Bolk is life.'
+  },
+  {
+    person: 'Misha',
+    quote: 'Omdat mijn vriendin lid was geworden.'
   }
 ]
