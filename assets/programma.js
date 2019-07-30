@@ -148,7 +148,20 @@ module.exports = {
       },
       {
         titel: {
-          dutch: 'Kijken hoe het klinkt',
+          dutch: '8-uur journaal',
+          english: '8 o’clock news'
+        },
+        start: 2000,
+        end: 2030,
+        beschrijving: {
+          dutch: 'We gaan na het eten samen het nieuws kijken.. maar wel anders natuurlijk.',
+          english: 'After dinner we’re going to watch the news.. but differently of course.'
+        },
+        lokatie: 'rechts'
+      },
+      {
+        titel: {
+          dutch: 'Kijk hoe het klinkt',
           english: 'See how it sounds'
         },
         start: 2100,
@@ -352,8 +365,8 @@ module.exports = {
           dutch: 'Speciaalbier proeverij',
           english: 'Craft beer tasting'
         },
-        start: 2315,
-        end: 45,
+        start: 2300,
+        end: 100,
         beschrijving: {
           dutch: 'Bier is er in allerlei soorten en maten. Hou je van een zoet biertje of juist eentje met een bittertje? Wil jij dat je bier zonder toevoegingen is gemaakt, of vind je het niet erg als er peper in zit? Hou je van koffie en bier? Dan kan dat ook! Het Bolksch Bierbrouwersgilde kan je er van alles over vertellen tijdens deze speciaalbierproeverij! Heb je vragen over de proeverij, kom dan langs op de Sport en Cultuurdag bij het Bolksch Bierbrouwersgilde (BBG).',
           english: 'Craft beers come in many shapes and sizes. Do you like a sweet or a bitter pint? Do you like the German idea of the Reinheitsgebot? Or don’t you mind if it is brewed with pepper or coffee beans? The Bolksch Bierbrouwersgilde (Craft Beer Brewing Guild of the Bolk) can tell you a ton of information with every sip you take. If you have any question, you can come and ask them on the Sports & Culture Market at the BBG stand.'
@@ -504,8 +517,8 @@ module.exports = {
         start: 2315,
         end: 400,
         beschrijving: {
-          dutch: 'Deze ultieme Bolk experience zorgt ervoor dat je je (weer) levendig voelt. Sluit je week af met een knaller. We\'re so excited!',
-          english: 'This ultimate Bolk experience ensures that you feel alive (again). Close your week off with a bang. We\'re so excited!'
+          dutch: 'Deze ultieme Bolk experience zorgt ervoor dat je je weer levendig voelt. Sluit je week af met een knaller. We\'re so excited!',
+          english: 'This ultimate Bolk experience ensures that you feel alive again. Close your week off with a bang. We\'re so excited!'
         },
         lokatie: 'midden'
       },
