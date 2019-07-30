@@ -174,19 +174,6 @@ module.exports = {
       },
       {
         titel: {
-          dutch: 'Tosti klussen',
-          english: 'Build your own Grilled cheese sandwich'
-        },
-        start: 2230,
-        end: 0,
-        beschrijving: {
-          dutch: 'Tosti met kaas? Tosti met tandpasta? Of dan toch gewoon een tosti met appeltaart? Het kan hier allemaal! Verzin je eigen tosti en eet hem op.',
-          english: 'Grilled cheese sandwich with cheese? Toothpaste? Or just with apple pie? It’s all possible! Create your own sandwich and taste your ideas.'
-        },
-        lokatie: 'links'
-      },
-      {
-        titel: {
           dutch: 'Mix je Mojito',
           english: 'Mix your Mojito'
         },
@@ -196,7 +183,7 @@ module.exports = {
           dutch: 'Het is zomer en hopelijk lekker weer buiten. Koel lekker af met een frisse mojito huisgemaakt en live gebrouwen aan onze bar met de ingrediënten die je zelf kiest. Alcoholvrije opties zijn natuurlijk ook aanwezig.',
           english: 'It’s summer and hopefully great weather outside. Cool yourself down with a fresh homemade mojito which is brewed live at the bar using the ingredients of your choosing. Alcohol free options are available as well, obviously.'
         },
-        lokatie: 'rechts'
+        lokatie: 'midden'
       },
       {
         titel: {
