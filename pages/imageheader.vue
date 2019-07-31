@@ -1,11 +1,11 @@
 <template>
   <div id="header">
     <div id="imageheader">
-      <img
+      <img v-bind:class="{ 'mobileheaderlogo': $mq === 'mobile' }"
         class="largelogo"
         src="~/assets/owee-logo-geel.svg">
       <br/>
-      <img
+      <img v-bind:class="{ 'mobileheadertext': $mq === 'mobile' }"
         class="largetext"
         src="~/assets/Tekst svg versie 2.svg">
       <div class="triangles"></div>
@@ -49,7 +49,15 @@
   }
 
   #imageheader .mobileheadertext{
-    font-size: 4rem !important;
+    height: 30vw !important;
+    background-repeat: no-repeat;
+    max-height: 30vh;
+  }
+
+  #imageheader .mobileheaderlogo{
+    height: 30vw !important;
+    background-repeat: no-repeat;
+    max-height: 30vh;
   }
 
   #imageheader h1{
