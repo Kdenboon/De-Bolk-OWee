@@ -78,7 +78,7 @@ module.exports = [
   },
   {
     person: 'Linda',
-    quote: 'Voornamelijk omdat ik merkte dat mensen hier ook gewoon een beetje spelletjes spelen. Bij 3D twister ben ik hier terrecht gekomen, heb ik mijn bril verloren en ben ik hier blijven hangen.'
+    quote: 'Voornamelijk omdat ik merkte dat mensen hier ook gewoon spelletjes spelen. Bij 3D twister ben ik hier terrecht gekomen, heb ik mijn bril verloren en ben ik blijven hangen.'
   },
   {
     person: 'Looka',
