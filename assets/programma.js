@@ -21,7 +21,20 @@ module.exports = {
           dutch: 'Geven Vier op een rij en Jenga jou nostalgische gevoelens? Kom het spelen in het MEGA. Zorg ervoor dat je overwinning ook van een afstand te bewonderen is of daag je vrienden uit voor een rematch. Of probeer iets anders en ga spijkerslaan. Iedereen om een GROTE boomstronk, spijkers en hamers, dit kan alleen maar voor ENORM veel plezier zorgen!',
           english: 'Do Connect Four and Jenga give you nostalgic feelings? Play it in MEGA. Make sure that your victory can also be admired from a distance or challenge your friends to a rematch. Or try something different and play Nail Stump. Everyone around a BIG tree stump, nails and hammers, this can only lead to a HUGE amount of fun!'
         },
-        lokatie: 'midden'
+        lokatie: 'links'
+      },
+      {
+        titel: {
+          dutch: '3D-twister',
+          english: '3D-twister'
+        },
+        start: 1700,
+        end: 1800,
+        beschrijving: {
+          dutch: 'Waarom een zeil met gekleurde stippen gebruiken als je ook in het vooronder van onze botter naar gekleurde rondjes kan zoeken die op allemaal random plekken zitten? Daarom hebben we twister een 3D karakter gegeven. Wring je in de meest onmogelijke bochten, ontdek allerlei hoekjes en gaatjes en zorg dat je niet omvalt!',
+          english: 'Why use a mat with coloured dots if you can search for randomly placed coloured circles at our sailing ship? That’s why we have given twister a 3D character. Put yourself in precarious positions, discover special corners of our historical boat and make sure you don’t fall!'
+        },
+        lokatie: 'rechts'
       },
       {
         titel: {
