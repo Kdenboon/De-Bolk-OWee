@@ -350,7 +350,7 @@ module.exports = {
       {
         titel: {
           dutch: 'Bierviltjesoorlog',
-          english: 'War of the beer mats'
+          english: 'Coaster war'
         },
         start: 2230,
         end: 2300,
@@ -440,6 +440,19 @@ module.exports = {
       },
       {
         titel: {
+          dutch: 'Vuur uur',
+          english: 'Fire hour'
+        },
+        start: 400,
+        end: 500,
+        beschrijving: {
+          dutch: 'Het is laat. Het is donker.  Het is gezellig en warm met een open haard en heet! eten en drinken.',
+          english: 'It’s late. It’s dark. It’s coazy and warm with a fireplace and hot! food and drinks.'
+        },
+        lokatie: 'rechts'
+      },
+      {
+        titel: {
           dutch: '4 uur cup-a-soup',
           english: '4 o\'clock cup-a-soup'
         },
@@ -449,7 +462,7 @@ module.exports = {
           dutch: 'Beetje moe? Wil je je weer levend voelen, als herboren? Neem dan een 4 uur Cup-a-Soup, dat zouden meer mensen moeten doen!',
           english: 'Tired after a long night? Wanna feel alive, like you were born again? Then enjoy a nice cup of soup!'
         },
-        lokatie: 'midden'
+        lokatie: 'links'
       },
     ]
   },
